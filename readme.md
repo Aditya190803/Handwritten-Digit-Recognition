@@ -1,4 +1,4 @@
-# Digit Recognition App
+# Handwritten Digit Recognition App
 
 This is a simple Streamlit application for recognizing handwritten digits using a pre-trained TensorFlow model. Users can draw a digit on a canvas, and the app will predict the digit using the loaded model.
 
