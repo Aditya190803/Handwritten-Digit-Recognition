@@ -7,7 +7,7 @@ import cv2
 
 try:
     # Load the trained model
-    model = tf.keras.models.load_model("model.keras")
+    model = tf.keras.models.load_model("digit_recognition_model.keras")
     st.write("Model loaded successfully!")
 except Exception as e:
     st.write(f"Error loading model: {e}")
