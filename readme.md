@@ -26,7 +26,7 @@ This is a simple Streamlit application for recognizing handwritten digits using 
 
 ## Usage
 
-1. Ensure you have a trained model saved as `model.keras` in the same directory as the app script.
+1. Ensure you have a trained model saved as `digit_recognition_model.keras` in the same directory as the app script.
 2. Run the Streamlit app:
 
    ```bash
